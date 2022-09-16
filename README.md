@@ -8,7 +8,11 @@
 
 #
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostik-gh&layout=compact&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=react)
+
+[//]: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostik-gh&layout=compact&theme=react) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=2077&utcOffset=8)
 
 </section>
 
