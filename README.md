@@ -1,4 +1,3 @@
-### Hi there 👋
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=react)](https://git.io/streak-stats)
 <!--
 **Ghostik-gh/Ghostik-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
