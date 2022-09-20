@@ -9,19 +9,19 @@
   
 <h1> Statistic Section </h1>
   
-  <table border="1">
+  <!-- <table border="1">
     <tbody>
       <tr valign="top">
         <td>
-          
-          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
         
+          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
         </td>
         <td align="right">1,234,567</td>
       </tr>
       <tr valign="top"><td>Everywhere</td><td align="right">2</td></tr>
     </tbody>
   </table>
+  -->
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
