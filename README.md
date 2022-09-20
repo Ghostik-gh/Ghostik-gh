@@ -11,12 +11,19 @@
   
   <table border="1">
     <tbody>
-      <tr valign="top"><td>*Here* and<br><strong>there</strong></td><td align="right">1,234,567</td></tr>
+      <tr valign="top">
+        <td>
+          
+          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
+        
+        </td>
+        <td align="right">1,234,567</td>
+      </tr>
       <tr valign="top"><td>Everywhere</td><td align="right">2</td></tr>
     </tbody>
   </table>
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
   
 ![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
