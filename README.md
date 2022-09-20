@@ -6,10 +6,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=API&theme=github_dark )](https://github.com/Ghostik-gh/API) 
 
 #
-
+  
+<h1> Statistic Section </h1>
+  
+  <table border="1">
+    <tbody>
+      <tr valign="top"><td>*Here* and<br><strong>there</strong></td><td align="right">1,234,567</td></tr>
+      <tr valign="top"><td>Everywhere</td><td align="right">2</td></tr>
+    </tbody>
+  </table>
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue) 
-
-![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&username=ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
+ 
+  
+![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
 
