@@ -7,12 +7,13 @@
 
 #
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue) 
 
+![Codewars](https://github.r2v.ch/codewars?user=ghostik-gh&username=ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=8)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=8)
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 
