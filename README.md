@@ -9,7 +9,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue) 
 
-![Codewars](https://github.r2v.ch/codewars?user=ghostik-gh&username=ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
+![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&username=ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
 
