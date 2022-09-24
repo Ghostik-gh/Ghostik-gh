@@ -30,7 +30,7 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
 
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=8)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=3)
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 
