@@ -6,8 +6,23 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=API&theme=github_dark )](https://github.com/Ghostik-gh/API) 
 
 #
-  
-<h1> Statistic Section </h1>
+
+### Languages and Tools 
+![JS](https://img.shields.io/badge/JavaScript-1F6FEA?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-1F6FEA?style=for-the-badge&logo=React)
+![SCSS](https://img.shields.io/badge/SCSS-1F6FEA?style=for-the-badge&logo=Sass)
+![Java](https://img.shields.io/badge/Java-1F6FEA?style=for-the-badge&logo=Java)
+![C++](https://img.shields.io/badge/C++-1F6FEA?style=for-the-badge&logo=C%2b%2b)
+![Rust](https://img.shields.io/badge/Rust-1F6FEA?style=for-the-badge&logo=Rust)
+
+#
+
+### Links 
+[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/GhostikGH)
+
+#
+
+<h3> Statistic Section </h3>
   
   <!-- <table border="1">
     <tbody>
