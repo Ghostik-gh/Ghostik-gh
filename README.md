@@ -1,5 +1,12 @@
 
-<section align='center'>
+<table border="1">
+<tbody>
+<tr valign="top">
+<td align='center'>
+
+![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/80a8b1d46bc2434a53c634de9721205228bea966.jpg)
+
+  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=robots-sim&theme=github_dark )](https://github.com/Ghostik-gh/robots-sim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=portfolio&theme=github_dark )](https://github.com/Ghostik-gh/portfolio)
@@ -24,20 +31,7 @@
 #
 
 <h3> Statistic Section </h3>
-  
-  <!-- <table border="1">
-    <tbody>
-      <tr valign="top">
-        <td>
-        
-          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
-        </td>
-        <td align="right">1,234,567</td>
-      </tr>
-      <tr valign="top"><td>Everywhere</td><td align="right">2</td></tr>
-    </tbody>
-  </table>
-  -->
+
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
@@ -50,8 +44,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 
-</section>
+</td>
+</tr>
+</tbody>
+</table>
 
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostik-gh&layout=compact&theme=react) 
--->
