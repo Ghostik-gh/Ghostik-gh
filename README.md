@@ -4,7 +4,7 @@
 
 <td colspan='2'>
 
-![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/80a8b1d46bc2434a53c634de9721205228bea966.jpg)
+![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
 
 </td>
 
@@ -38,7 +38,7 @@
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 
 </td></tr>
-<tr><td width='500px' align='center'>
+<tr><td width='50%' align='center'>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
