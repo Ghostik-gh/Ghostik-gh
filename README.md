@@ -11,6 +11,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-1F6FEA?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-1F6FEA?style=for-the-badge&logo=React)
 ![SCSS](https://img.shields.io/badge/SCSS-1F6FEA?style=for-the-badge&logo=Sass)
+![Python](https://img.shields.io/badge/Python-1F6FEA?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/Java-1F6FEA?style=for-the-badge&logo=Java)
 ![C++](https://img.shields.io/badge/C++-1F6FEA?style=for-the-badge&logo=C%2b%2b)
 ![Rust](https://img.shields.io/badge/Rust-1F6FEA?style=for-the-badge&logo=Rust)
