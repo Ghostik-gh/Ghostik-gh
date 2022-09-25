@@ -1,36 +1,43 @@
-
 <table border="1">
 <tbody>
 <tr valign="top">
-<td align='center'>
+
+<td colspan='2'>
 
 ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/80a8b1d46bc2434a53c634de9721205228bea966.jpg)
 
-  
+</td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=robots-sim&theme=github_dark )](https://github.com/Ghostik-gh/robots-sim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=portfolio&theme=github_dark )](https://github.com/Ghostik-gh/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=API&theme=github_dark )](https://github.com/Ghostik-gh/API) 
+</tr>
+<tr valign="top">
+<td align='center' colspan='2'>
 
-#
 
-### Languages and Tools 
-![JS](https://img.shields.io/badge/JavaScript-1F6FEA?style=for-the-badge&logo=JavaScript)
+### 🛠 Languages and Tools 
+![TypeScript](https://img.shields.io/badge/TypeScript-1F6FEA?style=for-the-badge&logo=TypeScript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F6FEA?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-1F6FEA?style=for-the-badge&logo=React)
 ![SCSS](https://img.shields.io/badge/SCSS-1F6FEA?style=for-the-badge&logo=Sass)
-![Python](https://img.shields.io/badge/Python-1F6FEA?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/Python-1F6FEA?style=for-the-badge&logo=Python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-1F6FEA?style=for-the-badge&logo=Java)
 ![C++](https://img.shields.io/badge/C++-1F6FEA?style=for-the-badge&logo=C%2b%2b)
 ![Rust](https://img.shields.io/badge/Rust-1F6FEA?style=for-the-badge&logo=Rust)
 
-#
+</td></tr>
+<tr><td colspan='2' align='center'>
 
-### Links 
+### 🔗 Links 
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/GhostikGH)
 
-#
 
-<h3> Statistic Section </h3>
+</td></tr>
+<tr><td colspan='2' align='center'>
+
+<h3> ⚙️ GitHub Analytics </h3>
+
+
+</td></tr>
+<tr><td>
 
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
@@ -38,14 +45,26 @@
   
 ![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=3)
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 
 </td>
+<td align='center'>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=portfolio&theme=github_dark )](https://github.com/Ghostik-gh/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=robots-sim&theme=github_dark )](https://github.com/Ghostik-gh/robots-sim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=API&theme=github_dark )](https://github.com/Ghostik-gh/API) 
+
+</td>
 </tr>
+
+<tr><td colspan='2' align='center'>
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
+
+</td></tr>
+
 </tbody>
 </table>
-
