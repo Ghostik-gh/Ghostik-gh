@@ -6,6 +6,11 @@
 
 ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
 
+- 👋 Hi, my [website](https://ghostik-gh.github.io/portfolio/#/ "s") 
+- 📚 Second year MTUCI student              
+- 💻 Junior Frontend
+
+![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 </td>
 
 </tr>
@@ -34,8 +39,6 @@
 <tr><td colspan='2' align='center'>
 
 <h3> ⚙️ GitHub Analytics</h3>
-
-![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 
 </td></tr>
 <tr><td width='50%' align='center'>
