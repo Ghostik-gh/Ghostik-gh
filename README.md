@@ -33,6 +33,7 @@
 
 ### 🔗 Links 
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/GhostikGH)
+[![Vk](https://img.shields.io/badge/-Vk-DC322F?style=for-the-badge&logo=Vk&logoColor=0077ff)](https://vk.com/ghostikgh)
 
 
 </td></tr>
@@ -41,7 +42,7 @@
 <h3> ⚙️ GitHub Analytics</h3>
 
 </td></tr>
-<tr><td width='50%' align='center'>
+<tr><td width='60%' align='center'>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
@@ -51,6 +52,8 @@
 
 </td>
 <td align='center'>
+ 
+<h3> 📌 Pinned Repositories </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=portfolio&theme=github_dark)](https://github.com/Ghostik-gh/portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=robots-sim&theme=github_dark)](https://github.com/Ghostik-gh/robots-sim)
@@ -63,6 +66,7 @@
 <tr><td colspan='2' align='center'>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
+ 
 
 </td></tr>
 
