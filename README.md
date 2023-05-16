@@ -8,7 +8,8 @@
 
 - 👋 Hi, my [website](https://ghostik-gh.github.io/portfolio/#/ "s") 
 - 📚 Second year MTUCI student              
-- 💻 Junior Frontend
+- 💻 Junior ~~Frontend~~ -> Backend
+
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 </td>
@@ -19,6 +20,18 @@
 
 
 ### 🛠 Languages and Tools 
+ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"          width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"           width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"      width="60" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"             width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"           width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"   width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"                 width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"             width="60" height="60"/>
+ 
+   
+<!--  
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F6FEA?style=for-the-badge&logo=TypeScript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F6FEA?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-1F6FEA?style=for-the-badge&logo=React)
@@ -26,7 +39,7 @@
 ![Python](https://img.shields.io/badge/Python-1F6FEA?style=for-the-badge&logo=Python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-1F6FEA?style=for-the-badge&logo=Java)
 ![C++](https://img.shields.io/badge/C++-1F6FEA?style=for-the-badge&logo=C%2b%2b)
-![Rust](https://img.shields.io/badge/Rust-1F6FEA?style=for-the-badge&logo=Rust)
+![Rust](https://img.shields.io/badge/Rust-1F6FEA?style=for-the-badge&logo=Rust) -->
 
 </td></tr>
 <tr><td colspan='2' align='center'>
@@ -48,16 +61,12 @@
  
 ![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostik-gh&layout=compact&theme=react)
 
 </td>
 <td align='center'>
  
-<h3> 📌 Pinned Repositories </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=portfolio&theme=github_dark)](https://github.com/Ghostik-gh/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=robots-sim&theme=github_dark)](https://github.com/Ghostik-gh/robots-sim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ghostik-gh&repo=API&theme=github_dark)](https://github.com/Ghostik-gh/API) 
+<!-- <h3> 📌 Pinned Repositories </h3> -->
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghostik-gh&theme=github_dark)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=3)
 
 </td>
@@ -66,6 +75,7 @@
 <tr><td colspan='2' align='center'>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostik-gh&theme=github_dark)
+
  
 
 </td></tr>
