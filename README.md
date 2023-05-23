@@ -59,8 +59,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
-![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark)
-
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark) -->
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=GhostikGH&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 </td>
 <td align='center'>
