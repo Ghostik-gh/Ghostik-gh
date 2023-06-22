@@ -7,7 +7,8 @@
 ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
 
 - 👋 Hi, my [website](https://ghostik-gh.github.io/portfolio/#/ "s") 
-- 📚 Second year MTUCI student              
+- 📚 Third year MTUCI student
+- [CV](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/resume.pdf)              
 - 💻 Junior ~~Frontend~~ -> Backend
 
 
