@@ -5,6 +5,7 @@
 <td colspan='2'>
 
 ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
+<h2 align='center'> 《If there is a will, there is a way》</h2>
 
 - 👋 Hi, my [website](https://ghostik-gh.github.io/portfolio/#/ "s") 
 - 📚 Third year MTUCI student
