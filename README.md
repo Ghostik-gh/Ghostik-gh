@@ -11,7 +11,7 @@
 - 📚 Third year MTUCI student
 - [CV](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/resume.pdf)              
 - 💻 Junior ~~Frontend~~ -> Backend
-
+- Route256 IX Jun Go -> Ozon Tech internship
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 </td>
