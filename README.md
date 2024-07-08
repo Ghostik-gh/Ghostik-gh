@@ -7,11 +7,10 @@
 ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
 <h2 align='center'> 《If there is a will, there is a way》</h2>
 
-- 👋 Hi, my [website](https://ghostik-gh.github.io/portfolio/#/ "s") 
-- 📚 Third year MTUCI student
-- [CV](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/resume.pdf)              
-- 💻 Junior ~~Frontend~~ -> Backend
-- Route256 IX Jun Go -> Ozon Tech internship
+- 📚 Fourth year MTUCI student
+- [CV](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/resume.pdf)
+- 💻 ~~Frontend~~ -> Backend
+- Route256 IX Jun Go -> Ozon Tech internship -> Jun Go
 
 ![](https://komarev.com/ghpvc/?username=Ghostik-gh&style=flat-square)
 </td>
