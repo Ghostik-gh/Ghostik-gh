@@ -3,8 +3,10 @@
 <tr valign="top"  height='100px'>
 
 <td colspan='2'>
+ 	
+<img width=100% src='https://github.com/Ghostik-gh/Ghostik-gh/blob/main/hello_world (3).gif'> 
 
-![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
+<!--- ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/hello_world.gif) --->
 <blockquote align='center'> 《 If there is a will, there is a way 》</blockquote>
 
 - 📚 Fourth year MTUCI student
