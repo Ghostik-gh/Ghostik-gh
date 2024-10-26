@@ -5,7 +5,7 @@
 <td colspan='2'>
 
 ![Header](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/background.png)
-<h2 align='center'> 《If there is a will, there is a way》</h2>
+<blockquote align='center'> 《 If there is a will, there is a way 》</blockquote>
 
 - 📚 Fourth year MTUCI student
 - [CV](https://github.com/Ghostik-gh/Ghostik-gh/blob/main/resume.pdf)
@@ -33,14 +33,15 @@
  
    
 <!--  
-![TypeScript](https://img.shields.io/badge/TypeScript-1F6FEA?style=for-the-badge&logo=TypeScript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F6FEA?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/React-1F6FEA?style=for-the-badge&logo=React)
-![SCSS](https://img.shields.io/badge/SCSS-1F6FEA?style=for-the-badge&logo=Sass)
-![Python](https://img.shields.io/badge/Python-1F6FEA?style=for-the-badge&logo=Python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-1F6FEA?style=for-the-badge&logo=Java)
-![C++](https://img.shields.io/badge/C++-1F6FEA?style=for-the-badge&logo=C%2b%2b)
-![Rust](https://img.shields.io/badge/Rust-1F6FEA?style=for-the-badge&logo=Rust) -->
+> [!NOTE]
+> text1
+
+> [!CAUTION]  
+> text2
+
+> [!IMPORTANT]  
+> text3
+-->
 
 </td></tr>
 <tr><td colspan='2' align='center'>
@@ -60,13 +61,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghostik-gh&theme=github-dark-blue)
  
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=Ghostik-gh&name=true&top_languages=true&stroke=white&theme=dark) -->
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=GhostikGH&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 </td>
 <td align='center'>
  
-<!-- <h3> 📌 Pinned Repositories </h3> -->
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghostik-gh&theme=github_dark)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostik-gh&theme=github_dark&utcOffset=3)
 
